@@ -1,0 +1,10 @@
+172.16.0.3 - eve [24/Mar/2025:11:12:54 +0000] "GET /index.html HTTP/1.1" 200 512
+10.0.0.2 - bob [21/Mar/2025:06:08:54 +0000] "DELETE /images/logo.png HTTP/1.1" 200 8192
+172.16.0.3 - eve [27/Mar/2025:13:54:54 +0000] "GET /index.html HTTP/1.1" 200 2048
+203.0.113.5 - dave [25/Mar/2025:10:42:54 +0000] "DELETE /api/user/123 HTTP/1.1" 200 1024
+203.0.113.5 - alice [24/Mar/2025:14:11:54 +0000] "GET /images/logo.png HTTP/1.0" 200 4096
+10.0.0.2 - alice [26/Mar/2025:07:26:54 +0000] "GET /api/user/123 HTTP/1.0" 200 128
+198.51.100.7 - alice [26/Mar/2025:02:40:54 +0000] "DELETE /api/data HTTP/1.1" 200 1024
+198.51.100.7 - alice [22/Mar/2025:01:18:54 +0000] "POST /api/order HTTP/2" 200 4096
+198.51.100.7 - alice [26/Mar/2025:04:41:54 +0000] "POST /images/logo.png HTTP/1.0" 200 8192
+172.16.0.3 - alice [21/Mar/2025:23:57:54 +0000] "POST /logout HTTP/2" 200 8192
